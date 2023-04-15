@@ -1,0 +1,10 @@
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: palevioletred;
+    line-height: 3;
+    text-align: center;
+}
